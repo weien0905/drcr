@@ -1,6 +1,7 @@
 # DRCR - Debit Credit
-#### Video Demo:  https://youtu.be/VyvKvPro5_g
-#### Description: A web based double entry accounting software to do tasks from double entry to generate financial statements in Excel format.
+A web based double entry accounting software to do tasks from double entry to generate financial statements in Excel format.
+#### Video Demo:
+[![Video Demo](https://img.youtube.com/vi/VyvKvPro5_g/0.jpg)](https://www.youtube.com/watch?v=VyvKvPro5_g)
 
 ## Website link
 I have deployed it to pythonanywhere.com and [here](https://drcr.pythonanywhere.com/) is the link.
