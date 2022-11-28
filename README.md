@@ -7,7 +7,7 @@ A web based double entry accounting software to do tasks from double entry to ge
 I have deployed it to pythonanywhere.com and [here](https://drcr.pythonanywhere.com/) is the link.
 
 ## Requirements
-View requirements.txt to install the required packages or install it using pip following below.
+View [requirements.txt](requirements.txt) to install the required packages or install it using pip following below.
 
 ```bash
 pip install flask
