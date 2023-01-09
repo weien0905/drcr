@@ -7,19 +7,16 @@ A web based double entry accounting software to do tasks from double entry to ge
 I have deployed it to pythonanywhere.com and [here](https://drcr.pythonanywhere.com/) is the link.
 
 ## Requirements
-View [requirements.txt](requirements.txt) to install the required packages or install it using pip following below.
+Install the required packages with the following command.
 
-```bash
-pip install flask
 ```
-
-```bash
-pip install openpyxl
+pip install -r requirements.txt
 ```
 
 The openpyxl library is used in order to deal with Excel files when generating the statements.
 
 [Google Fonts](https://fonts.google.com/) is used for the font of this website.
+
 [Bootsrap](https://getbootstrap.com/) is used in this application to make the webstie to have a nicer look.
 
 ## Database
