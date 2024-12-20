@@ -19,6 +19,20 @@ The openpyxl library is used in order to deal with Excel files when generating t
 
 [Bootsrap](https://getbootstrap.com/) is used in this application to make the webstie to have a nicer look.
 
+## Usage
+
+Run following command to initialise database and create tables.
+
+```
+python createdb.py
+```
+
+After that, run following following comand to run flask app and head over to port 5000 in browser (by default).
+
+```
+python index.py
+```
+
 ## Database
 Sqlite3 is used in this application due to its simpleness.
 
